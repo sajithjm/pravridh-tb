@@ -4,8 +4,8 @@ Base setup for tb project
 install > jdk11.14 onwards
 install postgres
 # check the sql files to create table and insert data into table
-find all the DDL sql files and run the query's - > inside dao -> resources- > sql folder 
-find this file and run through postgres - dao-> test -> system-data.sql (to have sysadmin)
+# find all the DDL sql files and run the query's - > inside dao -> resources- > sql folder 
+# find this file and run through postgres - dao-> test -> system-data.sql (to have sysadmin)
 
 username: sysadmin@thingsboard.org
 password:sysadmin
